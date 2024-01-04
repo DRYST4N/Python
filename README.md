@@ -1,0 +1,4 @@
+- 👋 Hola, soy @DRYST4N
+- 👀 Estoy interesado en mejorar mis aptitudes de programacion en el lenguaje de python en el ambito del Back-End
+- 🌱 Actualmente estudio ingenieria informatica
+- 📫 Podeis contactar conmigo conel e-mail: dryst4n@gmail.com
